@@ -1,2 +1,2 @@
 # Scripts
-#Hello WORLD
+#HELLO WORLD
